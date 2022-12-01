@@ -1,0 +1,9 @@
+need to fix the site's name in its html and other files
+need to get good looking artwork for logos and all the lil images we use for rendering different parts
+need to turn blog embedding into a text scraper for better flow
+need to build a CRUD services set for commenting and liking posts
+need to setup mailing list
+need to do all the things necessary to make this site a reality
+need to PURCHASE THE DAMN URL 
+need to celebrate this first setup
+need to have a nod to Dalinar Kholin
