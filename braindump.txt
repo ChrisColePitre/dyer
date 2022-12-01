@@ -1,4 +1,4 @@
-need to fix the site's name in its html and other files
+need to fix the site's name in its html and other files DONE
 need to get good looking artwork for logos and all the lil images we use for rendering different parts
 need to turn blog embedding into a text scraper for better flow
 need to build a CRUD services set for commenting and liking posts
