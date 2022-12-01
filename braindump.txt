@@ -1,9 +1,24 @@
+11/30 List:
+
 need to fix the site's name in its html and other files DONE
-need to get good looking artwork for logos and all the lil images we use for rendering different parts
-need to turn blog embedding into a text scraper for better flow
-need to build a CRUD services set for commenting and liking posts
-need to setup mailing list
-need to do all the things necessary to make this site a reality
-need to PURCHASE THE DAMN URL 
-need to celebrate this first setup
-need to have a nod to Dalinar Kholin
+need to get good looking artwork for logos and all the lil images we use for rendering different parts NOT PRIORITY; USING THE D20 FOR NOW, PUSHED NEXT LIST
+need to turn blog embedding into a text scraper for better flow DECIDED NO; STYLED GOOGLEDOCS TO LOOK GOOD
+need to build a CRUD services set for commenting and liking posts TOO BIG; GETTING BROKEN DOWN IN NEXT LIST
+need to setup mailing list NOT READY; PUSHING TO NEXT LIST
+need to do all the things necessary to make this site a reality TO NEBULOUS; MAKING INTO MISSION
+need to purchase the dang url NAME.COM GLITCHING; PUSHING TO NEXT LIST
+need to celebrate this first setup DONE
+need to have a nod to Dalinar Kholin HE NOT REAL; SO DONE? 
+
+12/1 List: 
+need to rearrange header to be actual website header and not big ass section
+need to do graphic design work on D20 and logos
+need to plan CRUD service and setup new DB for Dyer, document plan and publish to repo
+need to setup mailing (lookup easiest integration)
+need to purchase URL
+need to make hamburger menu implementation
+need to think of the page-plan for DYER? Club site
+
+NEW MISSION:
+Do all the things necessary to make this site a reality 
+
